@@ -331,7 +331,7 @@ form .btn2{
     color: #ff004f;
 }
 /*------ css for small screen---- */
-/*nav.fas{
+nav.fa{
     display: none;
 }
 @media only screen and (max-width: 600px){
@@ -345,7 +345,7 @@ form .btn2{
     .header-text h1{
         font-size: 30px;
     }
-    nav.fas{
+    nav.fa{
         display: block;
         font-size: 25px;
     }
@@ -355,8 +355,8 @@ form .btn2{
         top: 0;
         right: 0;
         width: 200px;
-        height: 100px;
+        height: 100vh;
         padding-top: 50px;
     }
 }
-*/
+
